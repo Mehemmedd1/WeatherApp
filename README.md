@@ -3,7 +3,7 @@ Weather App is a simple and fast application that allows users to view current w
 
 Features ✨
 📍 Location-Based Weather Information: Fetches weather details based on the entered city name.
-🌡️ Temperature and Humidity Data: Displays current temperature, maximum and minimum temperature values.
+🌡️ Temperature Data: Displays current temperature.
 🌐 Easy API Integration: Utilizes the OpenWeatherMap API to deliver real-time data.
 
 Technologies 🛠️
