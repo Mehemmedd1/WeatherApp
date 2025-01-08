@@ -9,7 +9,8 @@ Features ✨
 Technologies 🛠️
 This project is developed using the following technologies:
 
-Backend: Java 17, Spring Boot 3.0
-Dependencies: Spring Web, Spring Boot DevTools,Spring Data Jpa
+Backend: Java 17, Spring Boot 3.2.5
+Dependencies: Spring Web, Spring Boot DevTools,Spring Data Jpa,Lombok
 API: OpenWeatherMap API
+Database: MySql
 Build Tool: Maven
