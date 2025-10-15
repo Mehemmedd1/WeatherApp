@@ -1,6 +1,6 @@
 Weather App 🌦️
 
-Weather App is a simple and fast application that allows users to view current weather information. It is developed using the Spring Boot framework and fetches data from the OpenWeather API.
+Weather App is a simple and fast application that allows users to view current weather information. It is developed using the Spring Boot framework.
 
 Features ✨
 
@@ -8,20 +8,14 @@ Features ✨
 
 🌡️ Temperature Data: Displays current temperature.
 
-🌐 Easy API Integration: Utilizes the OpenWeatherMap API to deliver real-time data.
-
 
 Technologies 🛠️
 
 This project is developed using the following technologies:
 
-Backend: Java 17, Spring Boot 3.2.5
+Backend: Java , Spring Boot
 
-Dependencies: Spring Web, Spring Boot DevTools,Spring Data Jpa,Lombok
-
-API: OpenWeatherMap API
-
-Database: MySql
+Dependencies: Spring Web,Lombok
 
 Build Tool: Maven
 
